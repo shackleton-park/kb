@@ -6,9 +6,10 @@ const config: Config = {
   title: 'Shackleton Park',
   tagline: 'Knowledge Base',
   favicon: 'img/favicon.ico',
-  organizationName: 'shackleton-park',
+  trailingSlash: false,
   
   // Github pages specific configuration
+  organizationName: 'shackleton-park',
   projectName: 'kb',
   deploymentBranch: 'gh-pages',
 
@@ -34,10 +35,6 @@ const config: Config = {
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -52,7 +49,7 @@ const config: Config = {
     navbar: {
       title: 'Shackleton Park',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Shackleton Park',
         src: 'img/logo.svg',
       },
       items: [
