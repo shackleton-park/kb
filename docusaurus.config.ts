@@ -7,7 +7,7 @@ const config: Config = {
   tagline: 'Knowledge Base',
   favicon: 'img/favicon.ico',
   trailingSlash: false,
-  
+
   // Github pages specific configuration
   organizationName: 'shackleton-park',
   projectName: 'kb',
@@ -54,12 +54,6 @@ const config: Config = {
       },
       items: [
         {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Knowledge base',
-        },
-        {
           href: 'https://github.com/shackleton-park/kb',
           label: 'GitHub',
           position: 'right',
@@ -68,34 +62,7 @@ const config: Config = {
     },
     footer: {
       style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Knowledge base',
-              to: '/docs',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [],
-        },
-        {
-          title: 'Links',
-          items: [
-            {
-              label: 'Petra',
-              href: 'https://petra.ie/',
-            },
-            {
-              label: 'Cairn Homes',
-              href: 'https://www.cairnhomes.com/',
-            },
-          ],
-        },
-      ],
+      links: [],
       copyright: `Copyright © ${new Date().getFullYear()}`,
     },
     prism: {
