@@ -29,6 +29,10 @@ const config: Config = {
     locales: ['en'],
   },
 
+  plugins: [
+    require.resolve("@cmfcmf/docusaurus-search-local")
+  ],
+
   presets: [
     [
       'classic',
@@ -52,13 +56,8 @@ const config: Config = {
         alt: 'Shackleton Park',
         src: 'img/logo.svg',
       },
-      items: [
-        {
-          href: 'https://github.com/shackleton-park/kb',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
+      // top right items
+      items: [],
     },
     footer: {
       style: 'dark',
