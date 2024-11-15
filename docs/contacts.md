@@ -14,6 +14,6 @@ This page contains a few useful contacts:
 
 Petra is the company responsible for the management of the estate.
 
-- megan@petra.ie
 - +353 12935103
-- https://petra.ie/
+- megan@petra.ie
+- [Website](https://petra.ie)
