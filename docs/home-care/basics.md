@@ -21,3 +21,7 @@ There are two flexible cables coming out of kitchen and bathroom taps. If you fo
 ![Isolation valve](./isolation-valve.jpeg)
 
 Using a screwdriver, turn the screw to the horizonal position to close the water supply for that pipe. One pipe is responsible for the hot water and the other one for the cold water. Make sure to close both by opening the tap and confirming water is not coming off.
+
+Click on the image below to see these instruction on Youtube.
+
+[![Turn water off using isolation valves](https://img.youtube.com/vi/JHUw-Qt96jE/0.jpg)](https://www.youtube.com/watch?v=JHUw-Qt96jE)
