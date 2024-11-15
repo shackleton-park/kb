@@ -1,7 +1,8 @@
 # Pavers
 
-## Paving Design
+## Daniel Ioan
 
-- https://www.thepavingdesign.com
-- info@thepavingdesign.com
 - +353 87 351 0001 (available on WhatsApp)
+- info@thepavingdesign.com
+- [Website](https://www.thepavingdesign.com)
+- [Instagram](https://www.instagram.com/paving_design_ltd)
