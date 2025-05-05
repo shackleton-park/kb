@@ -2,7 +2,7 @@
 
 ## Keep recommended pressure
 
-A boiler's pressure gauge will usually sit between 1 and 2 bars when it is turned on. The exact recommended pressure level will vary depending on the boiler manufacturer, but generally, anywhere between 1.0 and 2.0 bar is ideal. The pressure level can be verified on the boiler display:
+A boiler's pressure gauge will usually sit between 1 and 2 bars when it is turned on. The exact recommended pressure level will vary depending on the boiler manufacturer, but generally, anywhere between 1.0 and 1.5 bar is ideal. The pressure level can be verified on the boiler display:
 
 ![Boiler display](./boiler-display.jpeg)
 

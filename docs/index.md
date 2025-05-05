@@ -9,6 +9,5 @@ Welcome to the Shackleton Park knowledge base. The goal of this project is to im
 This project is created and maintained by the following residents on a volunteer basis:
 
 - Romulo Ferreira (romulo.nf@gmail.com)
-- Caio Ribeiro (caio.forteribeiro@gmail.com)
 
-If you want to contribute to the content available, please make sure to reach out to us.
+If you want to contribute to the content available, please make sure to reach out.
